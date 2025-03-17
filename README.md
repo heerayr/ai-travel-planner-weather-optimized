@@ -123,5 +123,6 @@ This project is licensed under the MIT License
 - Serper for weather data API
 - 
 ![Screenshot 2025-03-17 155255](https://github.com/user-attachments/assets/39b814d5-a62a-47a9-b318-00152fa383ce)
+![Screenshot 2025-03-17 155327](https://github.com/user-attachments/assets/eb944809-3717-48c1-bda4-d7a7ad73286f)
 ![Screenshot 2025-03-17 155304](https://github.com/user-attachments/assets/11c507da-921b-486f-b3c5-2e47e9b1daa4)
 
