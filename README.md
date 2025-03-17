@@ -120,3 +120,7 @@ This project is licensed under the MIT License
 - Streamlit for the web application framework
 - Google for the Gemini AI model
 - Serper for weather data API
+- 
+
+![Screenshot 2025-03-17 155304](https://github.com/user-attachments/assets/11c507da-921b-486f-b3c5-2e47e9b1daa4)
+
