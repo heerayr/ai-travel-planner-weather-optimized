@@ -116,11 +116,12 @@ This project is licensed under the MIT License
 
 ## 🙏 Acknowledgements
 
+
 - CrewAI for the agent framework
 - Streamlit for the web application framework
 - Google for the Gemini AI model
 - Serper for weather data API
 - 
-
+![Screenshot 2025-03-17 155255](https://github.com/user-attachments/assets/39b814d5-a62a-47a9-b318-00152fa383ce)
 ![Screenshot 2025-03-17 155304](https://github.com/user-attachments/assets/11c507da-921b-486f-b3c5-2e47e9b1daa4)
 
